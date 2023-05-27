@@ -1,0 +1,21 @@
+
+r
+java:S1192F"PDefine a constant instead of duplicating this literal "redirect:/tasks" 4 times.(¶Ì´™ûÿÿÿÿ8‹¦…Î„1
+l
+java:S1192%"JDefine a constant instead of duplicating this literal "tasks.jsp" 3 times.(Øºœ´şÿÿÿÿ8¦…Î„1
+c
+java:S1192/"FDefine a constant instead of duplicating this literal "users" 4 times.(ÊåĞş8¦…Î„1
+c
+java:S1192#"FDefine a constant instead of duplicating this literal "tasks" 3 times.(š«ÁÍ8¦…Î„1
+n
+java:S1192 "LDefine a constant instead of duplicating this literal "redirect:/" 10 times.(Úêó‰øÿÿÿÿ8¦…Î„1
+Y
+java:S4973\"<Strings and Boxed types should be compared using "equals()".(›ÔÜœ8¨¦…Î„1
+^
+java:S4973s"<Strings and Boxed types should be compared using "equals()".(öè‚‘üÿÿÿÿ8©¦…Î„1
+b
+java:S4684*"@Replace this persistent entity with a simple POJO or DTO object.(üà®ºûÿÿÿÿ8‚©…Î„1
+b
+java:S46843"@Replace this persistent entity with a simple POJO or DTO object.(•ŞÕ¦ÿÿÿÿÿ8Š©…Î„1
+]
+java:S4684g"@Replace this persistent entity with a simple POJO or DTO object.(–ŠÛÜ8š©…Î„1

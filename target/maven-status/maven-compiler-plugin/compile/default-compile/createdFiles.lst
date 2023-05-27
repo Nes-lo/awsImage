@@ -1,0 +1,10 @@
+com\codingdojo\projectexam\controllers\UserController.class
+com\codingdojo\projectexam\models\LoginUser.class
+com\codingdojo\projectexam\models\Task.class
+com\codingdojo\projectexam\models\User.class
+com\codingdojo\projectexam\services\TaskService.class
+com\codingdojo\projectexam\controllers\TaskContoller.class
+com\codingdojo\projectexam\repositories\TaskRepository.class
+com\codingdojo\projectexam\services\UserService.class
+com\codingdojo\projectexam\repositories\UserRepository.class
+com\codingdojo\projectexam\ProjectExamApplication.class
